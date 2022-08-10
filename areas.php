@@ -38,15 +38,15 @@
               </a>
             </div>
             <div class="dropdown-content" id="dropdown-content" >
-                <a href="">Gas Services</a>
-                <a href="">Natural Gas Plumbing</a>
+                <a href="./gasServices.php">Gas Services</a>
+                <a href="./naturalGas.php">Natural Gas Plumbing</a>
                 <a href="./gasLeak.php">Gas Leak Detection</a>
-                <a href="">New Gas Installation</a>
-                <a href="">Gas Bayonets</a>
-                <a href="">Outdoor BBQ Installation</a>
-                <a href="">Gas Hot Water Systems</a>
-                <a href="">Gas Heater Installation</a>
-                <a href="">Gas Fitting</a>
+                <a href="./gasInstallation.php">New Gas Installation</a>
+                <a href="./gasBayonets.php">Gas Bayonets</a>
+                <a href="./bbqInstallation.php">Outdoor BBQ Installation</a>
+                <a href="./hotWater.php">Gas Hot Water Systems</a>
+                <a href="./gasInstallation.php">Gas Heater Installation</a>
+                <a href="./gasFitting.php">Gas Fitting</a>
             </div>
           </li>
           <li><a href="./about.php">ABOUT US</a></li>
@@ -65,17 +65,17 @@
               </a>
           </li>
           <div id="dropdown-mobile">
-            <div class="dropdown-content" >
-              <a href="">Gas Services</a>
-              <a href="">Natural Gas Plumbing</a>
-              <a href="./gasLeak.php">Gas Leak Detection</a>
-              <a href="">New Gas Installation</a>
-              <a href="">Gas Bayonets</a>
-              <a href="">Outdoor BBQ Installation</a>
-              <a href="">Gas Hot Water Systems</a>
-              <a href="">Gas Heater Installation</a>
-              <a href="">Gas Fitting</a>
-            </div>
+              <div class="dropdown-content" >
+              <a href="./gasServices.php">Gas Services</a>
+                <a href="./naturalGas.php">Natural Gas Plumbing</a>
+                <a href="./gasLeak.php">Gas Leak Detection</a>
+                <a href="./gasInstallation.php">New Gas Installation</a>
+                <a href="./gasBayonets.php">Gas Bayonets</a>
+                <a href="./bbqInstallation.php">Outdoor BBQ Installation</a>
+                <a href="./hotWater.php">Gas Hot Water Systems</a>
+                <a href="./gasInstallation.php">Gas Heater Installation</a>
+                <a href="./gasFitting.php">Gas Fitting</a>
+              </div>
           </div>
           <li><a href="./about.php">ABOUT US</a></li>
           <li><a href="./contact.php">CONTACT US</a></li>

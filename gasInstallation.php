@@ -84,93 +84,163 @@
       </div>
     </header>
 
-    <div class="about-banner">
-      <div class="banner-title">
-        <h1>ABOUT US</h1>
-      </div>
-      <div class="row content">
-        <div class="left-side">
-          <h3>Welcome to MCN Plumbing</h3>
-          <h2 class="color-blue">Plumber Melbourne</h2>
-          <p>
-            If you’re looking for a plumber in Melbourne, turn to the team at MCN Plumbing. Specialising in a wide range of plumbing services, we can assist you with toilet repairs, tap repairs, leaking pipes, blocked drains, hot water
-            repairs, and gas fitting. Based in Melbourne and backed by more than 30 years of experience, we use the best equipment and techniques to provide the right solutions for you.
-            <br />
-            <br />
-            To keep your drains clean and free from blockages, MCN Plumbing also offers a blocked drains service. Stop drain blockages from developing into more serious issues with professional drain cleaning from our team.
-          </p>
-          <div class="btn-wrapper">
-            <a href="">CONTACT US NOW</a>
-          </div>
+    <div class="service-banner">
+      <div class="row banner-container">
+        <div class="column left-side">
+          <h1>NEW GAS INSTALLATION</h1>
+          <ul class="row">
+            <li>
+              <div class="img-wrapper"><img src="./assets/same-day.png" alt="" /></div>
+              <h4>Same Day<br />Services</h4>
+            </li>
+            <li>
+              <div class="img-wrapper"><img src="./assets/same-day.png" alt="" /></div>
+              <h4>Upfront pricing<br />No hidden cost</h4>
+            </li>
+            <li>
+              <div class="img-wrapper"><img src="./assets/guarantee.png" alt="" /></div>
+              <h4>All Work<br />Guaranteed</h4>
+            </li>
+          </ul>
         </div>
-        <div class="right-side" style="background-image: url('./assets/about-banner-bg.png')"></div>
+        <div class="right-side" style="background-image: url('./assets/gasleak-banner-bg.png')"></div>
       </div>
     </div>
 
-    <div class="row what-is-mcn">
-      <div class="column left-side">
-        <h2><span class="color-blue">WHAT IS MCN</span><br />GAS PLUMBING</h2>
-        <p>
-          MCN Plumbing specialises in a full range of residential and commercial plumbing services. When you choose our team, you get guaranteed results, transparent pricing, and fast, same-day services whenever possible. MCN Plumbing even
-          offers 24/7 emergency plumbing services, so give us a call now to take care of your urgent plumbing needs.<br /><br />Whether you’re in Ashwood or Ringwood, Campbellfield or Doncaster, Epping or Templestowe, MCN Plumbing can come
-          to you. As your dedicated plumber in Melbourne, our team serves more than 30 different suburbs and we have been in the game for over 30 years. Fully equipped with all the parts, tools, equipment, and expertise for every job, we
-          are here to make light work of your plumbing problems. You can rest assured that we work with every plumbing brand and accept all major payment methods for your convenience.
-        </p>
-        <div class="btn-wrapper">
-          <a href="">CONTACT US NOW</a>
+    <div class="service-card">
+      <div class="row card-wrapper">
+        <div class="left-side" style="background-image: url(./assets/gasleak-card-bg.png)"></div>
+        <div class="column right-side">
+          <h2>NEW GAS INSTALLATION<br /><span class="font-m color-blue">IN MELBOURNE</span></h2>
+          <p>
+          With a gas connection, you can save money on heating and cooking. Natural gas is significantly less expensive than electricity in Australia because of the country's abundant gas reserves. Furthermore, it is a more environmentally-friendly option than coal-fired power generation.
+          <br><br>Plumbers at PlumbFirst Sydney can help you with all of your gas fitting service needs. Our team of expert gas fitters will complete the job quickly and affordably for you because they have years of experience in the field. Installing such connections requires precision and professionalism, which is why you should leave it to the professionals like us. 
+          <br><br>You should always get professionals to handle your gas connections to avoid any potential hazards. In fact, only licensed gas fitters can provide installations, and repair gas fitting
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="column what-to-do">
+      <h2><span class="color-blue">PROFESSIONAL </span>GAS INSTALLATION</h2>
+      <p>
+      It is only safe to use gas if it is installed correctly. Don't put yourself at risk by hiring a contractor who isn't qualified for the job. Because of a variety of factors, gas leaks can occur at any given time. Damaged or broken gas pipes and appliances, as well as poorly installed or poorly maintained piping systems, are all potential sources of gas leaks in the home.          
+      <br><br>As a result, in order to keep yourself and others safe, you should only trust professionals to handle your gas connections. Proper installation and repair of gas fittings can only be performed by qualified gas fitters. Gas installations can only be performed by a licensed gas fitter, which is why hiring a professional company is always a good idea.
+      <br><br>It is always advisable to hire a professional gas fitting company because:
+      </p>
+      <div class="row timeline">
+        <div class="container">
+          <div class="content">
+            <p>It is illegal for anyone other than a licensed gas fitter to carry out gas installations.</p>
+          </div>
+        </div>
+        <div class="container">
+          <div class="content">
+            <p>A poorly installed gas line can pose a danger. A reputable business would take every precaution to ensure customer safety.</p>
+          </div>
+        </div>
+        <div class="container">
+          <div class="content">
+            <p>Typically, the leading companies offering gas installation in Sydney can provide you with a variety of solutions. Hence, there is space for personalisation based on your needs.</p>
+          </div>
+        </div>
+        <div class="container">
+          <div class="content">
+            <p>It would be more cost effective to get the installation done by a professional gas fitter.</p>
+          </div>
+        </div>
+        <div class="container">
+          <div class="content">
+            <p>Just like any other complex job, it is advisable to hire a trusted company for gas installation services.</p>
+          </div>
+        </div>
+        <!-- <div class="container">
+          <div class="content">
+            <p>Professional gas plumbers like PlumbFirst are qualified to handle flammable gases like LPG and natural gas, and they have the necessary expertise to convert your equipment as necessary. You can rest easy knowing that your essential appliances have been thoroughly inspected by licensed professionals – so the entire conversion procedure is done safely.</p>
+          </div>
+        </div> -->
+      </div>
+      <p>Professional gas plumbers like PlumbFirst are qualified to handle flammable gases like LPG and natural gas, and they have the necessary expertise to convert your equipment as necessary. You can rest easy knowing that your essential appliances have been thoroughly inspected by licensed professionals – so the entire conversion procedure is done safely.</p>
+      <ul class="row btn-wrapper">
+        <li class="book-now"><a href="">BOOK NOW</a></li>
+        <li class="call-now"><a href="">CALL NOW</a></li>
+      </ul>
+    </div>
+
+    <div class="row services-special">
+      <div class="left-side">
+        <ul class="row coupon-wrapper">
+          <li>
+            <img src="./assets/vertical-coupon.png" alt="" />
+            <div class="column text-wrapper">
+              <h3><span class="header-text">$50</span><br />Voucher</h3>
+              <p>Mention this ad to get the $50 off*</p>
+            </div>
+            <div class="btn-wrapper">
+              <a href="">BOOK NOW</a>
+            </div>
+          </li>
+          <li>
+            <img src="./assets/vertical-coupon.png" alt="" />
+            <div class="column text-wrapper">
+              <h3>UP TO<br /><span class="header-text">$79</span></h3>
+              <h4>SENIOR DISCOUNT</h4>
+            </div>
+            <div class="btn-wrapper">
+              <a href="">BOOK NOW</a>
+            </div>
+          </li>
+        </ul>
+        <div class="content">
+          <h3>GET SPECIAL<br />OFFERS</h3>
+          <div class="row btn-wrapper">
+            <a href="">LET'S GET PLUMBING</a>
+          </div>
         </div>
       </div>
       <div class="right-side">
-        <ul class="column">
-          <li><img src="./assets/about-img-1.png" alt="" /></li>
-          <li><img src="./assets/about-img-2.png" alt="" /></li>
-        </ul>
+        <div class="text-wrapper">
+          <h3>ENQUIRE NOW</h3>
+          <h4>Use the form below to drop us an email if you have any question or comments.</h4>
+        </div>
+        <form action="" class="form column">
+          <ul class="form-fields">
+            <li>
+              <input type="text" name="name" id="name" placeholder="Name" style="width: 100%" />
+            </li>
+            <li>
+              <input type="text" name="email" id="email" placeholder="Email" style="width: 100%" />
+            </li>
+            <li class="row" style="justify-content: space-between">
+              <input type="text" name="phone" id="phone" placeholder="Phone" style="width: 48%" />
+              <input type="text" name="suburb" id="suburb" placeholder="Suburb" style="width: 48%" />
+            </li>
+            <li>
+              <textarea type="text" name="message" rows="5" cols="20" placeholder="Comment" style="width: 100%"></textarea>
+            </li>
+          </ul>
+          <div class="row submit-btn">
+            <input type="submit" value="CONTACT US NOW" />
+          </div>
+        </form>
       </div>
     </div>
 
-    <div class="row services">
-      <div class="left-side">
-        <ul class="cards row">
-          <li style="background-image: url(./assets/gas-instalation-bg.png)">
-            <div class="img-wrapper"><img src="./assets/gas-instalation.png" alt="" /></div>
-            <h5>NEW GAS<br />INSTALATION</h5>
-          </li>
-          <li style="background-image: url(./assets/hot-water-bg.png)">
-            <div class="img-wrapper"><img src="./assets/hot-water.png" alt="" /></div>
-            <h5>HOT WATER<br />SYSTEMS</h5>
-          </li>
-          <li style="background-image: url(./assets/leaking-bg.png)">
-            <div class="img-wrapper"><img src="./assets/leaking.png" alt="" /></div>
-            <h5>LEAKING GAS<br />REPAIRS</h5>
-          </li>
-          <li style="background-image: url(./assets/fixtures-bg.png)">
-            <div class="img-wrapper"><img src="./assets/fixtures.png" alt="" /></div>
-            <h5>GAS FIXTURES<br />INSTALATION</h5>
-          </li>
-          <li style="background-image: url(./assets/leaking-pipes-bg.png)">
-            <div class="img-wrapper"><img src="./assets/leaking-pipes.png" alt="" /></div>
-            <h5>LEAKING<br />PIPES</h5>
-          </li>
-          <li style="background-image: url(./assets/gas-fitting-bg.png)">
-            <div class="img-wrapper"><img src="./assets/gas-fitting.png" alt="" /></div>
-            <h5>GAS<br />FITTING</h5>
-          </li>
-        </ul>
-      </div>
-      <div class="column right-side">
-        <h2><span class="color-blue">MCN's</span><br />GAS PLUMBING<br />SERVICES</h2>
-        <p>
-          If you’re looking for a plumber in Melbourne, turn to the team at MCN Plumbing. Specialising in a wide range of plumbing services, we can assist you with toilet repairs, tap repairs, leaking pipes, blocked drains, hot water
-          repairs, and gas fitting. Based in Melbourne and backed by more than 30 years of experience, we use the best equipment and techniques to provide the right solutions for you
-        </p>
-        <div class="plumbing-btn">
-          <a href="">LET'S GET PLUMBING</a>
-        </div>
+    <div class="services-brands column">
+      <ul class="row brand-wrapper">
+        <li><img src="./assets/aquaMax-logo.png" alt="" /></li>
+        <li><img src="./assets/rinnai-logo.png" alt="" /></li>
+        <li><img src="./assets/vulcan-logo.png" alt="" /></li>
+        <li class="rheem-logo"><img src="./assets/rheem-logo.png" alt="" /></li>
+        <li><img src="./assets/bosch-logo.png" alt="" /></li>
+      </ul>
+      <div class="title-wrapper">
+        <h2>BRANDS WE USE</h2>
       </div>
     </div>
 
     <footer>
-      <div class="column urgent">
+      <div class="column urgent services-urgent">
         <h2>URGENTLY NEED <span class="color-blue">GAS PLUMBING PROFESSIONALS?</span></h2>
         <h3>WE ARE READY 24/7 FOR YOUR EMERGENCIES</h3>
         <form action="" class="form column">
@@ -278,6 +348,6 @@
           y.style.display = "block";
         }
       }
-    </script>
+  </script>
   </body>
 </html>
